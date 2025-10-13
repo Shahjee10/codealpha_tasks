@@ -1,4 +1,4 @@
-# 🛒 Walmart Sales Data Analysis (CodeAlpha Internship Task)
+# 🛒 Walmart Sales Data Analysis (CodeAlpha Internship Task 1)
 
 ### 🎯 Overview
 This project was developed as part of my **Data Analyst Internship at CodeAlpha**, focusing on performing **Exploratory Data Analysis (EDA)** on Walmart’s sales dataset.  
@@ -31,11 +31,9 @@ The dataset contains **historical sales data from Walmart**, including:
 - Holiday indicators  
 - Temperature, fuel price, CPI, and unemployment rate
 
-  
 ---
 
 ### 🔍 Project Workflow (Step-by-Step EDA)
-
 #### 1️⃣ Data Understanding
 - Loaded dataset using Pandas.
 - Displayed shape, column names, and data types.
@@ -86,20 +84,21 @@ This project enhanced my understanding of:
 - **Data storytelling and visualization**
 - **Using statistical tests to validate business hypotheses**
 
+---
+
 ### 📸 Visual Highlights
 Some of the key visualizations created in this project:
-- Sales trends over time
-   <img width="1252" height="580" alt="sales trend" src="https://github.com/user-attachments/assets/79efafef-cddc-4473-8554-d1924de3c332" />
+- Sales trends over time  
+  <img width="1252" height="580" alt="sales trend" src="https://github.com/user-attachments/assets/79efafef-cddc-4473-8554-d1924de3c332" />
 
-- Correlation heatmaps
+- Correlation heatmaps  
   <img width="891" height="562" alt="image" src="https://github.com/user-attachments/assets/6a5c9c02-9c09-473e-8f5f-537146e3b189" />
 
-- Holiday vs. Non-Holiday sales comparison
+- Holiday vs. Non-Holiday sales comparison  
   <img width="785" height="563" alt="image" src="https://github.com/user-attachments/assets/359b62f8-acd5-4ade-ae3b-1f91ce8b45da" />
 
-- Monthly and yearly sales analysis
+- Monthly and yearly sales analysis  
   <img width="1077" height="598" alt="image" src="https://github.com/user-attachments/assets/d3ef8f8f-b3cc-402c-8be6-d39ed270addb" />
-
 
 ---
 
@@ -109,13 +108,63 @@ It demonstrates how EDA can uncover meaningful business insights and help in **d
 
 ---
 
+# 🎨 Visualization Task (CodeAlpha Internship Task 2)
+
+### 🧾 Overview
+This task focused on **transforming raw data into meaningful and interactive visualizations** using Python libraries.  
+The goal was to **tell a story through visuals**, improving understanding and interpretation of data patterns.
+
+---
+
+### 🔍 Objective
+- Convert unprocessed data into visual insights.
+- Use Python visualization libraries for professional data storytelling.
+- Make the notebook self-explanatory — every code block is clearly **explained and commented** like a README.
+
+---
+
+### ⚙️ Tools & Libraries Used
+- **Python**
+- **pandas** – data preprocessing
+- **matplotlib** – fundamental chart plotting
+- **seaborn** – enhanced statistical visualization
+
+---
+
+### 📊 Workflow
+1️⃣ Loaded and explored raw dataset.  
+2️⃣ Cleaned missing or inconsistent values.  
+3️⃣ Applied multiple types of visualizations (bar, line, histogram, box, and correlation heatmap).  
+4️⃣ Explained each code section in Markdown for clarity.  
+5️⃣ Highlighted key insights from the plots.  
+
+---
+
+### 📈 Summary
+Today’s task was all about **turning raw data into visuals** that speak.  
+From understanding data distributions to comparing relationships between features — each visualization helped uncover hidden patterns and trends that numbers alone can’t reveal.
+
+---
+
+### 🧠 Learnings
+- Translating data into visuals enhances comprehension.  
+- A well-labeled, explained notebook doubles as both **codebase and documentation**.  
+- Each visualization tells a unique story about the dataset.  
+
+---
+
+### 🗂️ Repository
+🔗 [**CodeAlpha Internship Tasks Repository**](https://github.com/Shahjee10/codealpha_tasks)
+
+---
+
 ### 👨‍💻 Author
 **Syed Ahmed Ali Shah**  
 📧 [ahmedalilm10@gmail.com](mailto:ahmedalilm10@gmail.com)  
 🌐 [Portfolio Website](https://shahjee10.github.io/)  
-🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-shah-b4a458284) 
+🔗 [LinkedIn](https://www.linkedin.com/in/ahmed-shah-b4a458284)
 
 ---
 
 ### 🏷️ Tags
-`#DataAnalysis` `#EDA` `#Python` `#Pandas` `#Matplotlib` `#Seaborn` `#CodeAlpha` `#Internship` `#DataScience`
+`#DataVisualization` `#DataAnalysis` `#EDA` `#Python` `#Matplotlib` `#Seaborn` `#CodeAlpha` `#Internship`
